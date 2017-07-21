@@ -1,3 +1,9 @@
+## v0.5
+
+2017-07-21
+
+Update the buildpack to support heroku-16
+
 ## v0.4
 
 2012-05-13
